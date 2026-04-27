@@ -1,4 +1,4 @@
-import { useCallback, useState } from "react"; // useCallback는 함수
+import { useCallback, useState } from "react"; // useCallback는 함수 return
 
 export default function ParentComponent() {
   const [count, setCount] = useState<number>(0);

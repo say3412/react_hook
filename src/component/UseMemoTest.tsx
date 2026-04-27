@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react"; // useMemo 는 값
+import { useMemo, useState } from "react"; // useMemo 는 값 return
 
 export default function UseMemoTest() {
   const [query, setQuery] = useState("");
