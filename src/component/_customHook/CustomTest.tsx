@@ -1,4 +1,4 @@
-import useToggle from "../hook/useToggle";
+import useToggle from "../../hook/useToggle";
 
 export default function CustomTest() {
     const {value, toggle} = useToggle();

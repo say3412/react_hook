@@ -1,4 +1,4 @@
-import useFetch from "../hook/useFetch";
+import useFetch from "../../hook/useFetch";
 
 type Movie = {
   id: number;

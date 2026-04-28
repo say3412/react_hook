@@ -1,26 +1,26 @@
 import CCounter from "./component/CCounter";
 // import "./App.css";
-import ExUseEffect from "./component/ExUseEffect";
-import UserList from "./component/UserList";
-import UserList1 from "./component/UserList1";
-import UserList2 from "./component/UserList2";
-import UserList3 from "./component/UserList3";
-import Counter from "./component/Counter";
-import Test from "./component/Test";
-import MovieInfo from "./component/MovieInfo";
-import ExUseMemo from "./component/UserMemo";
-import UseMemoTest from "./component/UseMemoTest";
-import ParentComponent from "./component/UseCallback";
-import UseMemoTest1 from "./component/UseMemoTest1";
-import UseMemoTest2 from "./component/UseMemoTest2";
+import ExUseEffect from "./component/_useEffect/ExUseEffect";
+import UserList from "./component/_useEffect/UserList";
+import UserList1 from "./component/_useEffect/UserList1";
+import UserList2 from "./component/_useEffect/UserList2";
+import UserList3 from "./component/_useEffect/UserList3";
+import Counter from "./component/_useEffect/Counter";
+import Test from "./component/_useEffect/Test";
+import MovieInfo from "./component/_useEffect/MovieInfo";
+import ExUseMemo from "./component/_useMemo/UserMemo";
+import UseMemoTest from "./component/_useMemo/UseMemoTest";
+import ParentComponent from "./component/_useCallback/UseCallback";
+import UseMemoTest1 from "./component/_useMemo/UseMemoTest1";
+import UseMemoTest2 from "./component/_useMemo/UseMemoTest2";
 import UseRefTest from "./component/UseRefTest";
-import CounterR from "./component/CounterReducer";
-import LoginReducer from "./component/LoginReducer";
-import DarkOrLight from "./component/DarkOrLight";
-import CustomTest from "./component/CustomTest";
-import LoginReducerButton from "./component/LoginReducerButton";
-import CustomFetch from "./component/CustomFetch";
-import MovieInfoFetch from "./component/MovieInfoFetch";
+import CounterR from "./component/_useRedecer/CounterReducer";
+import LoginReducer from "./component/_useRedecer/LoginReducer";
+import DarkOrLight from "./component/_useContext/DarkOrLight";
+import CustomTest from "./component/_customHook/CustomTest";
+import LoginReducerButton from "./component/_useRedecer/LoginReducerButton";
+import CustomFetch from "./component/_customHook/CustomFetch";
+import MovieInfoFetch from "./component/_customHook/MovieInfoFetch";
 
 function App() {
   return (
